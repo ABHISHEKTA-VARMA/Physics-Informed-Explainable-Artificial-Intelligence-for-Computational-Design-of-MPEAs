@@ -1,0 +1,6 @@
+Alloy ID,AI Predicted Phase,DFT Relaxed Phase,Phase Agreement,Validation Score
+GEN_0012457,BCC,BCC,Exact,1.0
+GEN_0023586,FCC,FCC,Exact,1.0
+GEN_0050205,B2,B2,Exact,1.0
+GEN_0064391,BCC,BCC,Exact,1.0
+GEN_0103655,FCC,FCC,Exact,1.0

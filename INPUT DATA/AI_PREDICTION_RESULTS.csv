@@ -1,0 +1,6 @@
+Alloy ID,Alloy Composition,Alloy Class,Process,Predicted Phase,Predicted Hardness (HV),Novelty Score,Rank Score
+GEN_0050205,Al11.6Fe17.5Ni23.9Cr17.1Mo10Ti19.9,Complex-Concentrated,Casting,B2,732.5,,
+GEN_0064391,Al21.4Co8.3Fe18.6Ni14Cr20.5Mo17.3,Cantor-Derivative,Casting,BCC,837.7,,
+GEN_0103655,Co15.2Fe14.1Ni15.2Mo30.6V24.9,Refractory MPEA,Casting,FCC,661.9,,
+GEN_0012457,Mo12.5Ti16.8Nb18.4Zr18.3Ta18.7Hf15.4,Refractory MPEA,Casting,BCC,505.6,,
+GEN_0023586,Co18.1Fe20.2Ni18Cr19.8Mn23.9,Cantor-Derivative,Powder Metallurgy,FCC,322.5,,
